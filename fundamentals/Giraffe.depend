@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1582608089 source:c:\users\jefff\desktop\c++\giraffe\main.cpp
+	<iostream>
+	<cmath>
+
